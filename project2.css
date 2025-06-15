@@ -12,7 +12,8 @@ body{
     gap: 10px;
     margin-left: 140px;
     margin-top: 50px;
-    background-color:blanchedalmond;
+    background-color: blanchedalmond;
+ 
     
 }
 .box2 {
@@ -20,6 +21,7 @@ body{
     width: 100%;
     border: 2px solid black;
     margin-bottom: 2px;
+    
 }
 
 .row {

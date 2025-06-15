@@ -1,3 +1,7 @@
+body{
+    background-color: palevioletred;
+}
+
 .outer-box {
    
   width: 1500px;
@@ -8,12 +12,13 @@
   gap: 10px;      /* Space between inner boxes */
   margin-left: 80px;
   margin-top: 40px;
+  background-color: blanchedalmond;
  
 }
 
 .inner-box1 {
    /* Each box takes equal space */
-  background-color: white;
+  background-color:lavenderblush;
   border: 2px solid #333;
   display: flex;
   align-items: center;
